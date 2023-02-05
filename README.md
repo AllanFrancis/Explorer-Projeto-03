@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Foi lançado o desafio de criar um layout apenas seguindo o layout feito no figma. Esse projeto é de uma empresa de segurança de dados.
 <br>
 <br>
+
 ## 🔖 Layout
 
 Para visualizar o projeto no figma, basta [clicar aqui](https://www.figma.com/file/ANPnc6xYJfopYlqEsbgGWF/Explorer-(Copy)?node-id=0%3A1&t=Bvg0tQESGBXOFr7w-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
