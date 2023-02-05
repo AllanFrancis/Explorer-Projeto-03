@@ -1,0 +1,84 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+   color: #FFF;
+   padding: 0;
+   margin: 0;
+   background-color: #2F2E41;
+}
+
+nav {
+   width: 1080px;
+   margin: 70px auto 23px;
+   display: flex;
+   justify-content: space-between;
+}
+
+nav ul {
+   font-family: 'JetBrains Mono', monospace;
+   width: 308px;
+   display: flex;
+   list-style: none;
+   justify-content: space-between;
+}
+
+nav ul a, footer a {
+   text-decoration: none;
+   color: #FFF;
+}
+
+nav ul li {
+   gap: 10;
+}
+
+main {
+   display: flex;
+   justify-content: space-between;
+   width: 1080px;
+   margin: 100px auto 157px;
+}
+
+#anuncio {
+   width: 614px;
+}
+
+#anuncio h1 {
+   width: 614px;
+   font-family: 'JetBrains Mono', monospace;
+   font-weight: bold;
+   font-size: 36px;
+   color:#FFF;
+   margin-bottom: 59px;
+}
+
+#anuncio span {
+   color:#00BFA6;
+   font-weight: bold;
+}
+
+#anuncio p {
+   color:#C2C2C2;
+   text-align: center;
+   font-size: 16px;
+   line-height: 28px;
+}
+
+footer {
+   position: fixed;
+   left: 33%;
+   bottom: 23px;
+   width: 568px;
+   border-width: 1px 0 0;
+   border-style: solid;
+   border-color: #00BFA6;
+   text-align: center;
+   font-family: 'JetBrains Mono', monospace;   
+   padding-top: 27px;
+}
+
+
+
+#lock {
+   position: fixed;
+   left: 20px;
+   bottom: 20px;
+}
