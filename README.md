@@ -1,3 +1,9 @@
+## 💻 Projeto
+
+Foi lançado o desafio de criar um layout apenas seguindo o layout feito no figma. Esse projeto é de uma empresa de segurança de dados.
+<br>
+<br>
+
 <p align="center">
   <img alt="projeto refaturado" src=".github/preview.jpg" width="100%">
 </p>
@@ -14,12 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - VS Code
 - Git e Github
 - Figma
-<br>
-<br>
-
-## 💻 Projeto
-
-Foi lançado o desafio de criar um layout apenas seguindo o layout feito no figma. Esse projeto é de uma empresa de segurança de dados.
 <br>
 <br>
 
