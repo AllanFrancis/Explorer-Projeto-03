@@ -67,9 +67,7 @@ footer {
    left: 33%;
    bottom: 23px;
    width: 568px;
-   border-width: 1px 0 0;
-   border-style: solid;
-   border-color: #00BFA6;
+   border-top: 1px solid #00BFA6;
    text-align: center;
    font-family: 'JetBrains Mono', monospace;   
    padding-top: 27px;
